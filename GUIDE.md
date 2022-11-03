@@ -6,8 +6,8 @@ This is the information of every challenge:
 
 ## 🎯 Challenges
 
-- [Name:](link) Description
-
+- [Rot13:](https://github.com/IzakCancino/JavaScriptChallenges/blob/main/Challenges/Rot13.js) Cipher that replaces a letter with the letter 13 letters after it in the alphabet
+- [Digital Root:](https://github.com/IzakCancino/JavaScriptChallenges/blob/main/Challenges/DigitalRoot.js) This is the recursive sum of all the digits in a number until a single-digit number is produced
 
 ## Author
 Izak Cancino
